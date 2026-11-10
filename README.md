@@ -1,4 +1,6 @@
-# Assignment 1: Verify checkbox selection
+# Playwright Checkbox Assignment
+
+## Assignment 1: Verify checkbox selection
 
 Playwright test covering all six requested steps on https://the-internet.herokuapp.com/checkboxes.
 
